@@ -1,0 +1,22 @@
+{
+  "name": "stillos-style",
+  "version": "0.1.0",
+  "description": "Um framework front-end pensado para desenvolvimento de dashboards e interfaces administrativas",
+  "author": "Fabio Silva <silva.fabiocd@gmail.com>",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/stillosprd/stillos-style.git"
+  },
+  "bugs": {
+    "url": "https://github.com/stillosprd/stillos-style/issues"
+  },
+  "homepage": "https://github.com/stillosprd/stillos-style#readme",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "main": "js/sstyle.min.js",
+  "style": "css/sstyle.min.css",
+  "dependencies": {
+  }
+}
